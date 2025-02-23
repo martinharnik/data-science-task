@@ -173,4 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Ignore all PDF files
 *.pdf
+
+# Ignore the specific PDF file
+Data Scientist.pdf
